@@ -1,0 +1,6 @@
+{
+  "name": "TelaLivre — Conectar Celular na TV via Wi-Fi",
+  "description": "Conecte e pareie seu celular em qualquer Smart TV pela rede Wi-Fi para espelhar tela, enviar fotos e vídeos do YouTube, com guia interativo por marca e diagnóstico de rede.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

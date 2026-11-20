@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1E40AF" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <!-- Minimalist TV screen frame -->
+  <rect
+    x="96"
+    y="132"
+    width="320"
+    height="212"
+    rx="30"
+    stroke="#FFFFFF"
+    stroke-width="26"
+    stroke-linejoin="round"
+  />
+  <!-- TV stand -->
+  <line
+    x1="184"
+    y1="388"
+    x2="328"
+    y2="388"
+    stroke="#FFFFFF"
+    stroke-width="26"
+    stroke-linecap="round"
+  />
+  <!-- Wi-Fi / Cast signal dot and arcs inside screen (bottom-left cast motif) -->
+  <circle cx="152" cy="292" r="15" fill="#FFFFFF" />
+  <path
+    d="M152 246C177.4 246 198 266.6 198 292"
+    stroke="#FFFFFF"
+    stroke-width="22"
+    stroke-linecap="round"
+  />
+  <path
+    d="M152 198C203.9 198 246 240.1 246 292"
+    stroke="#FFFFFF"
+    stroke-width="22"
+    stroke-linecap="round"
+  />
+</svg>
